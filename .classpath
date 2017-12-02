@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path=""/>
-	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/NeuralNet"/>
+	<classpathentry exported="true" kind="src" path="/NeuralNet"/>
 	<classpathentry exported="true" kind="lib" path="C:/Users/Jason/OneDrive/workspace/LIBRARYS/jexcelapi_2_6_12/jexcelapi/jxl.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Jason/OneDrive/workspace/LIBRARYS/jexcelapi_2_6_12/jexcelapi/build/JFlex.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Jason/OneDrive/workspace/LIBRARYS/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Jason/OneDrive/workspace/LIBRARYS/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1-javadoc.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Jason/OneDrive/workspace/LIBRARYS/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Jason/OneDrive/workspace/LIBRARYS/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1-tests.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Jason/OneDrive/workspace/LIBRARYS/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1-test-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Jason/OneDrive/workspace/LIBRARYS/commons-math3-3.6.1-bin/commons-math3-3.6.1/commons-math3-3.6.1-tools.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Jason/OneDrive/workspace/LIBRARYS/poi-bin-3.17-20170915/poi-3.17/poi-3.17.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Jason/OneDrive/workspace/LIBRARYS/poi-bin-3.17-20170915/poi-3.17/poi-examples-3.17.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Jason/OneDrive/workspace/LIBRARYS/poi-bin-3.17-20170915/poi-3.17/poi-excelant-3.17.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Jason/OneDrive/workspace/LIBRARYS/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-3.17.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Jason/OneDrive/workspace/LIBRARYS/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-schemas-3.17.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Jason/OneDrive/workspace/LIBRARYS/poi-bin-3.17-20170915/poi-3.17/poi-scratchpad-3.17.jar"/>
 	<classpathentry kind="output" path=""/>
 </classpath>
